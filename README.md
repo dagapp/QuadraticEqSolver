@@ -1,2 +1,2 @@
 # QuadraticEqSolver
-C++ File to help you solve Quadratic Equations.
+C++ Project with separated QuadraticEqSolver file to help you solve Quadratic Equations.
