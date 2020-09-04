@@ -10,7 +10,7 @@ using namespace std;
 int main()
 {
     //Creating an equation object
-    QuadraticEq equation(0, 0, -9);
+    QuadraticEq equation(4, 7, 3);
     
     //equation.SolutionCount contains a number of solutions equation has
     cout << "Solution count: " << equation.SolutionCount << endl;
